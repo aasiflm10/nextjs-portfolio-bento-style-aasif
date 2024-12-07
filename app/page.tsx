@@ -3,8 +3,8 @@ import { ThemeToggle } from "@/components/theme-toggle";
 export default function Home() {
   return (
     <main>
-      <div> Hi there!</div>
-      <ThemeToggle/>
+      <h1 className="text-4xl font-bold"> Batuhan Bilgin</h1>
+      <ThemeToggle />
     </main>
   );
 }
